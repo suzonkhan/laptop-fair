@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Lenovo Chromebook S330 Laptop",
+      "price": 200,
+      "thumb": "https://m.media-amazon.com/images/I/61ViOMIUhmL._AC_SL1500_.jpg",
+      "url": "https://www.amazon.com/dp/B07GLV1VC7/"
+    },
+    {
+      "id": 2,
+      "name": "Lenovo IdeaPad Duet 5 Chromebook",
+      "price": 349.99,
+      "thumb": "https://m.media-amazon.com/images/I/61mIka7zQGL._AC_SL1500_.jpg",
+      "url": "https://www.amazon.com/dp/B09LP61KDP/"
+    },
+    {
+      "id": 3,
+      "name": "HP Chromebook ",
+      "price": 320.09,
+      "thumb": "https://m.media-amazon.com/images/I/71+F4yQ5TuL._AC_SL1500_.jpg",
+      "url": "https://www.amazon.com/dp/B08HHGNFCX/"
+    },
+    {
+      "id": 4,
+      "name": "ASUS ROG Strix Scar 15",
+      "price": 3299.99,
+      "thumb": "https://m.media-amazon.com/images/I/71IA+MeLP2L._AC_SL1500_.jpg",
+      "url": "https://www.amazon.com/dp/B09RN27LHT/"
+    },
+    {
+      "id": 5,
+      "name": "Lenovo Chromebook S330",
+      "price": 125,
+      "thumb": "https://m.media-amazon.com/images/I/61BvlCvbRJL._AC_SL1500_.jpg",
+      "url": "https://www.amazon.com/dp/B07Q36QYGW/"
+    },
+    {
+      "id": 6,
+      "name": "Acer Predator Helios 300 PH315-54-760S Gaming Laptop ",
+      "price": 1272.97,
+      "thumb": "https://m.media-amazon.com/images/I/71nz3cIcFOL._AC_SL1500_.jpg",
+      "url": "https://www.amazon.com/dp/B092YHJLS6/"
+    },
+    {
+      "id": 7,
+      "name": "MSI Prestige 14 Evo Professional",
+      "price": 799,
+      "thumb": "https://m.media-amazon.com/images/I/71wuaEI87uL._AC_SL1500_.jpg",
+      "url": "https://www.amazon.com/dp/B09FNS8YN2/"
+    },
+    {
+      "id": 8,
+      "name": "Laptop HP X360 14a Chromebook ",
+      "price": 219,
+      "thumb": "https://m.media-amazon.com/images/I/81aTNRe9WcL._AC_SL1500_.jpg",
+      "url": "https://www.amazon.com/dp/B08TH23KK5"
+    },
+    {
+      "id": 9,
+      "name": "Razer Book 13 ",
+      "price": 1999.99,
+      "thumb": "https://m.media-amazon.com/images/I/71ALO-WzlEL._AC_SL1500_.jpg",
+      "url": "https://www.amazon.com/dp/B08LP734G3/"
+    },
+    {
+      "id": 10,
+      "name": "Microsoft Surface Pro LTE ",
+      "price": 1412.38,
+      "thumb": "https://m.media-amazon.com/images/I/61RI4MoDGkL._AC_SL1200_.jpg",
+      "url": "https://www.amazon.com/dp/B078Z37H9T/"
+    },
+    {
+      "id": 11,
+      "name": "Microsoft Surface Pro with Black ",
+      "price": 599.77,
+      "thumb": "https://m.media-amazon.com/images/I/71bViaqDPRL._AC_SL1500_.jpg",
+      "url": "https://www.amazon.com/dp/B076YLC1HZ/"
+    },
+    {
+      "id": 12,
+      "name": "MSI Stealth 15M ",
+      "price": 1188.91,
+      "thumb": "https://m.media-amazon.com/images/I/71p3Ygm14wL._AC_SL1500_.jpg",
+      "url": "https://www.amazon.com/dp/B091GGZT1S"
+    }
+  ]

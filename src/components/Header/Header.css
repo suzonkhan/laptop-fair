@@ -1,0 +1,12 @@
+.main-header{
+    text-align: center;
+    padding: 10px 0;
+    border-bottom: 1px solid rgb(212, 248, 230);
+    background-color: rgb(230, 255, 243);
+ 
+}
+
+.main-header h1{
+    color: #34614c;
+    text-transform: uppercase;
+}

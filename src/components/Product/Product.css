@@ -1,0 +1,12 @@
+.product-box{
+    background-color: #fff;
+    padding: 30px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+.product-image {
+    height: 150px;
+}
+.product-image img{
+    max-height: 150px;
+}

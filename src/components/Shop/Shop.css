@@ -1,0 +1,21 @@
+.page-wrapper{
+    padding: 50px 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+.cart-wrapper{
+    background-color: #fff;
+    flex:  0 0 270px;
+    max-width:  270px;
+    margin-left: 30px;
+    border: 1px solid #ccc;
+}
+
+.products{
+    flex:  0 0 calc(100% - 300px);
+    max-width: calc(100% - 300px);
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+
+}
