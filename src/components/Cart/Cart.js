@@ -15,7 +15,6 @@ const Cart = ({cartItem}) => {
             <div> 
                 <button className='removeCart'>
                 <FontAwesomeIcon icon={faTrash} />
-               
                 </button>
             </div>
         </div>

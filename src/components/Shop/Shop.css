@@ -18,5 +18,26 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 30px;
-
+}
+.show-fav-item-btn{
+    margin-top: 30px;
+    background-color: #14ae66;
+    padding: 10px 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 30px;
+    width: 100%;
+    color: #fff;
+    font-weight: bold;
+}
+.remove-fav-item-btn{
+    margin-top: 30px;
+    background-color: #ff1b0a;
+    padding: 10px 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 30px;
+    width: 100%;
+    color: #fff;
+    font-weight: bold;
 }

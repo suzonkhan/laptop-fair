@@ -14,11 +14,8 @@ const {name, thumb, price} = product;
                 </div>
                 <h3>{name}</h3>
                 <p>Price: {price}</p>
-                
                 <button onClick={ () => addCart(product)} className="add-to-Cart">
-                    
                      Add to Cart  <FontAwesomeIcon icon={faShoppingCart} />
-                     
                  </button>
             </div>
         </div>
