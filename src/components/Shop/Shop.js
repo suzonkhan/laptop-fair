@@ -19,7 +19,7 @@ const Shop = () => {
             const newCart = [...cart, selectedProduct];
             setCart(newCart)
         } else{
-            alert ("Don't cross limit");
+            alert ("You have reached your limit.");
         }
        
         

@@ -17,3 +17,11 @@ button.add-to-Cart{
     cursor: pointer; 
     border-radius: 30px;
 }
+.product-box-inner p{
+    margin-top: auto;
+}
+.product-box-inner{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
