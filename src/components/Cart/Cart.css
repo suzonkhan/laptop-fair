@@ -1,0 +1,17 @@
+.cart-item-row{
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 20% 60% 20%; 
+    box-sizing: border-box;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+button.removeCart{
+    background-color: #d4d3d3;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer; 
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+}
